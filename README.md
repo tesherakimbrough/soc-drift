@@ -2,7 +2,7 @@
 
 A cozy ambient loop crafted for late-night cybersecurity work.
 
-![SOC Drift Banner](./SOC-Drift-Banner.jpg)
+![SOC Drift Banner](SOC Drift Banner.jpg)
 
 ## 🎧 About
 
