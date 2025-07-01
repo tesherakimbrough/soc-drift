@@ -1,33 +1,29 @@
 # SOC Drift – Lo-fi for Threat Analysts
 
-A cozy ambient loop crafted for late-night cybersecurity work.
+_A cozy ambient loop crafted for late-night cybersecurity work._
 
-![SOC Drift Banner](https://raw.githubusercontent.com/tesherakimbrough/soc-drift/main/soc-drift-banner.png)
+![SOC Drift Banner](soc-drift-banner.png)
 
-## 🎧 About
+## 🎧 Listen
 
-This project blends lo-fi chillhop audio, ambient rain, and a soft animated Tokyo SOC scene.  
-Created to help analysts, engineers, and security pros focus, relax, and drift into deep flow.
+This audio loop was designed for threat analysts, SOC teams, and night owls building secure systems after hours. 
 
-- 🐕 Shiba Inu companion under the desk  
-- 🗼 Tokyo Tower in the distance  
-- 🌧️ Animated rain and dusk-to-night lighting  
-- 🖥️ Code and ThreatLens map on dual monitors  
-- 🎵 Original lo-fi track w/ embedded whisper tag: `tesherakimbrough.dev… drift secure`
+> Currently updating the final MP3. Stay tuned.
 
-## 📦 Assets Included
+<!-- To add the working MP3 once available, use this:
+[Download the SOC Drift Loop (MP3)](./soc-drift-loop.mp3)
+-->
 
-- `SOC-Drift.mp4` — Full animated loop  
-- `SOC-Drift-Audio.mp3` — Standalone audio track  
-- `SOC-Drift-Loop.gif` — Lightweight animation for GitHub  
-- `SOC-Drift-Banner.jpg` — Wide header image  
-- `SOC-Drift-CoverArt.png` — Square art for thumbnails
+## 🛠️ Project Credits
 
-## 🔗 Portfolio
+- **Visuals:** Hand-crafted lo-fi scene featuring HavenAI Secure & ThreatLens  
+- **Concept:** Original ambient loop for focus, built from Teshera’s workflow  
+- **Art Direction:** Late-night SOC, Shiba Inu companion, Tokyo Tower in the rain  
 
-Project page: [tesherakimbrough.dev/soc-drift](https://tesherakimbrough.dev/soc-drift)  
-GitHub: [github.com/tesherakimbrough/soc-drift](https://github.com/tesherakimbrough/soc-drift)
+## 👋 About the Creator
+
+Hi, I’m Teshera — a Security Technologist & Builder focused on ethical AI, privacy-first systems, and automation. You can learn more or connect via [tesherakimbrough.dev](https://tesherakimbrough.dev)
 
 ---
 
-_“Built by Teshera Kimbrough — Security Technologist & Privacy-First Builder”_
+_This project is part of my public portfolio showcasing thoughtful security tools with creative energy. If it resonates, star the repo or reach out._
