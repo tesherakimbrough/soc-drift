@@ -1,53 +1,52 @@
 # SOC Drift – Lo-fi for Threat Analysts
 
-A cozy ambient loop crafted for late-night cybersecurity work.
+**A cozy lo-fi loop crafted for late-night cybersecurity work.**  
+SOC Drift is an ambient, animated experience designed to help security analysts, engineers, and builders stay focused while navigating complex digital terrain.
 
-![SOC Drift Banner](./soc-drift-banner.png)
+![SOC Drift Banner](soc-drift-banner.png)
 
-## 🎧 Listen While You Work
+## 🎧 Watch + Listen  
+Custom audio and visuals handcrafted for calm, clarity, and concentration.
 
-Custom-made lo-fi audio to help you focus while working on security alerts, logs, or compliance reports.
-
-[▶️ Play SOC Drift Lo-fi](./soc-drift.mp3)
-
----
-
-## 🔍 What This Is
-
-**SOC Drift** is a personal ambient audio and visual experience built for cybersecurity professionals — especially Threat Analysts, SOC Analysts, and Security Technologists who work best at night. Inspired by real tools and projects:
-
-- 🛡️ **HavenAI Secure** – Privacy-first AI threat detection
-- 🔎 **ThreatLens** – Analyst-friendly log investigation toolkit
-
-The goal? Create a sensory space that helps reduce burnout and bring a little calm to alert fatigue.
+🔗 [🎬 Watch the SOC Drift Lo-fi Video](Lo_Fi_Video_Request_Fulfilled.mp4)  
+🔊 [🎵 Listen to the SOC Drift MP3](soc-drift.mp3)
 
 ---
 
-## 📂 What's Included
+## 🌙 Why SOC Drift?
 
-| File | Description |
-|------|-------------|
-| `soc-drift.mp3` | Custom lo-fi audio loop |
-| `SOC-Drift-CoverArt.png` | Cover art used in preview and marketing |
-| `SOC-Drift.mp4` | Animated lo-fi loop with embedded audio |
-| `soc-drift-loop.mp3` | Alternate format of the audio loop |
-| `soc-drift-banner.png` | Embedded banner for this README |
+You're pulling late hours, investigating alerts, tuning detections, or building threat models. You don’t need hype. You need headspace.
+
+- No ads  
+- No distractions  
+- Just focus-driven, minimal lo-fi for threat analysts.
 
 ---
 
-## 🌐 Use Cases
+## 📁 Included Files
 
-- Background audio for alert triage
-- Focus track for GRC documentation or IAM scripting
-- Companion piece for showcasing HavenAI Secure or ThreatLens
+| File                      | Description                                |
+|---------------------------|--------------------------------------------|
+| `soc-drift-banner.png`    | Static cover image                         |
+| `soc-drift.mp3`           | Custom lo-fi audio loop                    |
+| `Lo_Fi_Video_Request_Fulfilled.mp4` | Animated video loop w/ audio         |
+| `SOC-Drift-CoverArt.png`  | Full screen illustration (non-loop)        |
+| `SOC-Drift.mp4`           | Alternate video                            |
+| `README.md`               | This file                                  |
 
 ---
 
-## 📎 Attribution & License
+## 🐾 Credits
 
-Created by [Teshera Kimbrough](https://tesherakimbrough.dev)  
-This project is open to collaboration or expansion — feel free to fork or remix.
+- Visuals: Designed for the SOC Drift project with ambient Tokyo-inspired night scenes.
+- Audio: Custom lo-fi track made for cybersecurity focus.
+- Concept: [Teshera Kimbrough](https://tesherakimbrough.dev) – Security Technologist & Ethical AI Builder
 
-**License**: MIT for code, personal use only for audio/visual assets. Contact for commercial licensing.
+---
 
+## 💡 Reuse + Forking
+
+If you’re building your own ambient focus tools for niche tech roles, feel free to fork. Credit appreciated, not required. This is for the community.
+
+> “Calm is a superpower. Especially in incident response.”
 
