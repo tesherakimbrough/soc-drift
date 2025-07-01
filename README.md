@@ -5,11 +5,14 @@ SOC Drift is an ambient, animated experience designed to help security analysts,
 
 ![SOC Drift Banner](soc-drift-banner.png)
 
+---
+
 ## 🎧 Watch + Listen  
+
 Custom audio and visuals handcrafted for calm, clarity, and concentration.
 
-🔗 [🎬 Watch the SOC Drift Lo-fi Video](Lo_Fi_Video_Request_Fulfilled.mp4)  
-🔊 [🎵 Listen to the SOC Drift MP3](soc-drift.mp3)
+▶️ [Watch on YouTube](https://youtu.be/0if64gbtOr8)  
+🔊 [Download the SOC Drift MP3](soc-drift.mp3)
 
 ---
 
@@ -27,26 +30,28 @@ You're pulling late hours, investigating alerts, tuning detections, or building 
 
 | File                      | Description                                |
 |---------------------------|--------------------------------------------|
-| `soc-drift-banner.png`    | Static cover image                         |
-| `soc-drift.mp3`           | Custom lo-fi audio loop                    |
-| `Lo_Fi_Video_Request_Fulfilled.mp4` | Animated video loop w/ audio         |
-| `SOC-Drift-CoverArt.png`  | Full screen illustration (non-loop)        |
-| `SOC-Drift.mp4`           | Alternate video                            |
+| `soc-drift-banner.png`    | Static banner cover                        |
+| `SOC-Drift-CoverArt.png`  | Full illustration (non-loop)               |
+| `soc-drift.mp3`           | Main lo-fi audio track                     |
+| `soc-drift-loop.mp3`      | Loopable version for ambient playback      |
+| `soc-drift-final.mp4`     | Final animated loop video                  |
+| `SOC-Drift.mp4`           | Alternate animation                        |
 | `README.md`               | This file                                  |
 
 ---
 
 ## 🐾 Credits
 
-- Visuals: Designed for the SOC Drift project with ambient Tokyo-inspired night scenes.
-- Audio: Custom lo-fi track made for cybersecurity focus.
-- Concept: [Teshera Kimbrough](https://tesherakimbrough.dev) – Security Technologist & Ethical AI Builder
+- Visuals: Designed with Tokyo-inspired ambient night scenes using AI-assisted workflows and ethical curation.
+- Audio: Custom lo-fi track composed to match cybersecurity focus environments.
+- Project by: [Teshera Kimbrough](https://tesherakimbrough.dev) – Security Technologist & Ethical AI Builder
 
 ---
 
 ## 💡 Reuse + Forking
 
-If you’re building your own ambient focus tools for niche tech roles, feel free to fork. Credit appreciated, not required. This is for the community.
+If you’re building your own ambient focus tools for niche tech roles, feel free to fork.  
+Credit appreciated, not required. This is for the community.
 
 > “Calm is a superpower. Especially in incident response.”
 
